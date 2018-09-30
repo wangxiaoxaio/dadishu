@@ -1,0 +1,24 @@
+			#content {
+				width: 740px;
+				margin: 10px auto;
+				text-align: center;
+			}
+			td {
+				width:125px;
+				height:143px;
+				background-color:#00ff33; 
+			}
+			table {
+				margin: 0 auto;
+				
+			}
+			table:hover {
+				cursor: url('img/chuizi.png'),auto;
+			}
+			form {
+				margin:10px auto;
+				padding-left: 25px;
+			}
+			div.form-group {
+				padding-left: 10px;
+			}
